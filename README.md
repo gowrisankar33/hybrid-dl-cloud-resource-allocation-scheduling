@@ -396,8 +396,4 @@ The proposed RADTS-HDL method was evaluated against EDS, DVMC, and AEHO-EAES acr
 29. Dildar, M. S., et al. (2017). Effective way to defend hypervisor attacks in cloud computing. *ICACC*. IEEE.
 30. Elshabka, M. A., et al. (2020). Security-aware dynamic VM consolidation. *Egyptian Informatics Journal*.
 
----
 
-## License
-
-This project is developed for academic research purposes.
